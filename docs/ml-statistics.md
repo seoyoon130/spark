@@ -50,7 +50,7 @@ correlation methods are currently Pearson's and Spearman's correlation.
 
 <div class="codetabs">
 <div data-lang="scala" markdown="1">
-[`Correlation`](api/scala/org/apache/spark/ml/stat/Correlation$.html)
+[Correlation](api/scala/org/apache/spark/ml/stat/Correlation$.html) 
 computes the correlation matrix for the input Dataset of Vectors using the specified method.
 The output will be a DataFrame that contains the correlation matrix of the column of vectors.
 
@@ -58,7 +58,7 @@ The output will be a DataFrame that contains the correlation matrix of the colum
 </div>
 
 <div data-lang="java" markdown="1">
-[`Correlation`](api/java/org/apache/spark/ml/stat/Correlation.html)
+[Correlation](api/java/org/apache/spark/ml/stat/Correlation.html)
 computes the correlation matrix for the input Dataset of Vectors using the specified method.
 The output will be a DataFrame that contains the correlation matrix of the column of vectors.
 
@@ -66,7 +66,7 @@ The output will be a DataFrame that contains the correlation matrix of the colum
 </div>
 
 <div data-lang="python" markdown="1">
-[`Correlation`](api/python/reference/api/pyspark.ml.stat.Correlation.html)
+[Correlation](api/python/reference/api/pyspark.ml.stat.Correlation.html) 
 computes the correlation matrix for the input Dataset of Vectors using the specified method.
 The output will be a DataFrame that contains the correlation matrix of the column of vectors.
 

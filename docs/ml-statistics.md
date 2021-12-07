@@ -58,8 +58,7 @@ The output will be a DataFrame that contains the correlation matrix of the colum
 </div>
 
 <div data-lang="java" markdown="1">
-[`Correlation`](api/java/org/apache/spark/ml/stat/Correlation.html)
-computes the correlation matrix for the input Dataset of Vectors using the specified method.
+[Correlation](https://spark.apache.org/docs/2.2.0/api/java/org/apache/spark/ml/stat/Correlation.html) computes the correlation matrix for the input Dataset of Vectors using the specified method.
 The output will be a DataFrame that contains the correlation matrix of the column of vectors.
 
 {% include_example java/org/apache/spark/examples/ml/JavaCorrelationExample.java %}
